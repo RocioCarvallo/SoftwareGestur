@@ -1,0 +1,17 @@
+{
+    "name": "zayan/gestur-software",
+    "autoload": {
+        "psr-4": {
+            "Zayan\\GesturSoftware\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zaya",
+            "email": "Ponicornioalado@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}
